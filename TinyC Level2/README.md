@@ -67,7 +67,6 @@ Finally, the optimized intermediate code is translated into assembly code, which
 ## Examples
 
 1. **Example 1**:
-
 int main(){
 int a,b,c;
 a=50;
@@ -77,26 +76,22 @@ print a;
 }
 
 2. **Example 2**:
-
 int main(){ 
 double x, y;
 x = 10.5; 
 y = x * 2;
 print y;
 }
+
 3. **Example 3**:
-
 int main(){
-
 int num;
 num=5*3+ (2 > 1);
 print num;
 }
 
 4. **Example 4**:
-
 int main(){
-
 double temp;
 temp = (double) 20/3;
 print temp;
