@@ -77,3 +77,35 @@ Python
 
 SLY (Sly Lex-Yacc for Python)
 
+---
+
+### Examples
+
+**Example1:**
+
+int main(){
+int a,b,c,d;
+a=30;
+b=50;
+c=4;
+d=(a+b)*(b/c)-(c*a);
+print d;
+}
+
+**output:**
+
+![image](https://github.com/user-attachments/assets/95fb191e-4209-41de-be72-d562df3e429b)
+
+**Example2:**
+
+int main(){
+int x,y,w;
+x=50;
+y=6.78;
+w=x*y+4.5-2;
+print w;
+}
+
+**output:**
+
+![image](https://github.com/user-attachments/assets/981affb9-b4e0-46ac-8297-b1dc411d9c5b)
