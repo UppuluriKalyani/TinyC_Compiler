@@ -1,4 +1,4 @@
-# TinyC Compiler
+## TinyC Compiler
 
 This repository contains a compiler for the TinyC programming language, designed to convert TinyC source code into assembly language. The compiler is implemented in Python using the SLY library and supports two levels of functionality, each with its own set of features.
 
